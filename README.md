@@ -79,12 +79,12 @@ const myExpertise = {
 
 | Component | Technologies |
 |-----------|-------------|
-| 🔮 **Knowledge Graphs** | Neo4j, Graphiti, Entity extraction, Relationship mapping |
+| 🔮 **Knowledge Graphs** | Neo4j, Graphiti, LightRAG, Entity extraction, Relationship mapping |
 | 🔍 **Vector Search** | pgvector, Pinecone, Semantic search, Hybrid retrieval |
 | 🤖 **LLM Integration** | OpenAI, Fireworks AI, Prompt engineering, RAG pipelines |
 | ⚡ **Async Processing** | Celery, RabbitMQ, Redis, Background workers |
-| 🛠️ **Backend APIs** | FastAPI (Python), NestJS (TypeScript), GraphQL |
-| 📱 **Full-Stack** | React Native, Next.js, TypeScript, Tailwind CSS |
+| 🛠️ **Backend APIs** | FastAPI (Python), NestJS (TypeScript), WebSocket |
+| 📱 **Frontend** | Expo, Next.js, TypeScript, Tailwind CSS |
 
 ---
 
@@ -131,13 +131,13 @@ const myExpertise = {
 
 | Domain | Technologies & Skills |
 |--------|----------------------|
-| **🔮 Graph RAG** | Graphiti, Neo4j, Entity Extraction, Relationship Mapping |
-| **📚 RAG Systems** | LangChain, LlamaIndex, Vector Search, Hybrid Retrieval |
-| **🧠 LLMs** | OpenAI GPT-4, LLaMA, Fireworks AI, Prompt Engineering |
-| **🔍 Search & Retrieval** | Semantic Search, BM25, Hybrid Search, Reranking |
+| **🔮 Graph RAG** | Graphiti, LightRAG, Neo4j, Entity Extraction, Relationship Mapping |
+| **📚 RAG Systems** | LangChain, Vector Search, Hybrid Retrieval |
+| **🧠 LLMs** | OpenAI GPT-4, LLaMA, DeepSeek, Fireworks AI, Prompt Engineering |
+| **🔍 Search & Retrieval** | Semantic Search, BM25, Hybrid Search, Reranking, Cross-Encoders |
 | **📊 NLP** | Text Classification, NER, Embeddings (Nomic, OpenAI) |
-| **⚙️ ML Pipelines** | Celery, Async Processing, Model Serving |
-| **💾 Vector Databases** | pgvector, Pinecone, Elasticsearch, Redis |
+| **⚙️ ML Pipelines** | Celery, Async Processing, BullMQ
+| **💾 Vector Databases** | pgvector, Pinecone, Redis |
 
 </div>
 
