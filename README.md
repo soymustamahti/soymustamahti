@@ -1,112 +1,149 @@
 <div align="center">
 
-# 🧠 Mustapha El Hachmi Mahti
+# Mustapha El Hachmi Mahti
 
-### AI Engineer & Agentic Systems Architect
+### AI Engineer & Agentic Systems Specialist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Agentic+Systems+Architect;Expert+in+LangChain%2C+LangGraph+%26+Graph+RAG;Building+Intelligent+Multi-Agent+Systems;Transforming+LLMs+into+Production+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%26+Agentic+Systems+Specialist;Expert+in+LangChain%2C+LangGraph+%26+Graph+RAG;Building+production-ready+AI+knowledge+platforms;Turning+documents+into+intelligent+queryable+knowledge)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-mustapha--elhachmi.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mustapha-elhachmi.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustapha_El_Hachmi_Mahti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-el-hachmi-mahti-2aa122225)
+[![Email](https://img.shields.io/badge/Email-mustaelhachmimahti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustaelhachmimahti@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm an **AI Engineer** specialized in developing **agentic systems** and **advanced RAG architectures**. Expert in **LangChain**, **LangGraph**, and **Graph RAG**, I design autonomous agents capable of reasoning, planning, and interacting with complex knowledge bases. I transform LLMs into scalable production systems with knowledge graphs (Neo4j), vector databases (Pinecone, pgvector), and multi-agent orchestration to create high-impact AI solutions.
+I'm an **AI Engineer** specialized in **agentic systems** and **advanced RAG architectures**. I design autonomous systems with **LangChain**, **LangGraph**, and **Graph RAG**, and I turn LLMs into production-ready platforms using **knowledge graphs**, **vector databases**, and **multi-agent orchestration**. My work sits at the intersection of AI engineering, full-stack product delivery, and scalable microservices.
 
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Mustapha El Hachmi Mahti"
-        self.role = "AI Engineer & Agentic Systems Architect"
-        self.location = "Toulouse, Occitanie, France 🇫🇷"
+        self.role = "AI Engineer & Agentic Systems Specialist"
+        self.location = "Toulouse, Occitanie, France"
         self.email = "mustaelhachmimahti@gmail.com"
         self.phone = "0750018388"
         self.website = "https://mustapha-elhachmi.tech"
-        self.knowledge_base = [
-            "LangChain", "LangGraph", "Graph RAG", "LLMs",
-            "Autonomous Agents", "Knowledge Graphs", "Vector Databases"
+        self.core_expertise = [
+            "LangChain",
+            "LangGraph",
+            "Graph RAG",
+            "Neo4j",
+            "Knowledge Graphs",
+            "Autonomous Agents",
+            "Semantic Retrieval",
         ]
 
     def current_focus(self):
-        return "Building AI-powered Knowledge Management with Graph RAG"
+        return "Building AI knowledge platforms like Egobis"
 
-    def life_philosophy(self):
-        return "Transform complexity into intelligence"
+    def mindset(self):
+        return "Transform complexity into intelligent, usable systems"
 ```
 
-### 🔥 Quick Stats
+## Quick Stats
 
-- 🎓 **Master's in Software Architecture** - EPITECH (2023 - 2025)
-- 🎓 **Bachelor DevOps Application Developer & Designer** - EPSI (2022 - 2023) _With distinction from the jury_
-- 💼 **4+ years** building production AI & Full-Stack systems
-- 📱 Apps serving **50,000+ users** | **250,000+ mobile downloads**
-- 🧠 **Specialist** in Graph RAG, LangChain, LangGraph & Autonomous Agents
-- 🌍 **Multilingual**: French (native), Arabic (native), Catalan (native), Spanish (native), English (fluent), Italian (conversational)
-
----
-
-## 💼 Professional Experience
-
-### � Full Stack Developer | Groupe Actual, Toulouse
-
-**September 2022 — September 2025**
-
-- **Web Development**: Design and development of complex React/TypeScript applications (50,000+ users) with optimized user interfaces and sophisticated state management
-- **Mobile Applications**: Cross-platform iOS/Android development with React Native/Expo (250,000+ downloads)
-- **Backend Architecture**: Design of NestJS microservices with RESTful APIs, PostgreSQL/MongoDB databases
-- **Performance & Scalability**: Optimization of web and mobile performance (+30% speed improvement), implementation of caching solutions and real-time monitoring
-- **Data Engineering**: BigQuery development for business analytics and development of high-availability data pipelines
-
-**Stack**: React, TypeScript, React Native, NestJS (NodeJS), MySQL, Redis, GCP
+- Master's in Software Architecture - EPITECH (2023 - 2025)
+- Bachelor DevOps Application Developer & Designer - EPSI (2022 - 2023), with distinction from the jury
+- Built products serving 50,000+ web users and 250,000+ mobile downloads
+- Strong mix of AI systems, full-stack engineering, mobile apps, and microservices
+- Multilingual: French, Arabic, Catalan, Spanish, English, Italian
 
 ---
 
-### 🔷 Full Stack Developer | Groupe Bizness, Toulouse
+## Professional Experience
 
-**January 2022 — August 2022**
+### Egobis - AI Knowledge Management Platform, Dataunboxed (Freelance)
 
-- **Microservices Architecture**: Development of event-driven architecture with multi-source aggregation APIs
-- **RAG System for FAQ**: RAG implementation with Pinecone vector database for intelligent FAQ feature with embeddings and semantic search
-- **Real-Time Applications**: Implementation of WebSockets and Server-Sent Events for collaborative interfaces
-- **Database and API**: Development of APIs with SAP HANA database
+**September 2025 - March 2026**
 
----
+Full-stack document intelligence platform powered by **Graph RAG**, **knowledge graphs**, and **agentic systems**.
 
-### 🔷 Full Stack Developer | Société JUMP, Toulouse
+- **Graph RAG & Knowledge Graphs**: Designed a Graph RAG architecture with **Neo4j** and **Graphiti** for entity extraction, relationship mapping, and knowledge graph generation from documents
+- **AI Agents & Orchestration**: Built autonomous agents with **LangChain** and **LangGraph** for intelligent Q&A, semantic retrieval, and automatic classification
+- **AI Microservices Architecture**: Shipped a distributed **NestJS + FastAPI** stack with **Celery** workers for OCR, embeddings, and graph ingestion
+- **Multi-Platform Product Delivery**: Delivered both a **Next.js** web interface and a **React Native / Expo** mobile application
+- **LLM Evaluation**: Added **Langfuse** tracing and evaluation workflows to improve retrieval quality over time
 
-**May 2021 — July 2021**
+**Stack**: LangChain, LangGraph, Neo4j, FastAPI, NestJS, PostgreSQL + pgvector, Celery, Redis, React (Next.js), React Native
 
-- **Test Automation**: E2E with Cypress, WebDriver, Cucumber JS and Gherkin syntax
-- **Custom Slack Commands Development**: with Bolt JS and NestJS
-- **Web Tools Creation**: automated to improve team productivity
-
----
-
-### 🔷 Archeon - AI Knowledge Management Platform (Freelance)
-
-**June 2024 — Present**
-
-_Full-stack document management platform powered by Graph RAG and agentic systems._
-
-- **Graph RAG & Knowledge Graphs**: Graph RAG architecture with Neo4j and Graphiti for entity extraction, relationship mapping, and knowledge graph generation from documents
-- **AI Agents & LLM Orchestration**: Implementation of autonomous agents with LangChain/LangGraph for intelligent Q&A, automatic classification, and multi-modal semantic search
-- **AI Microservices Architecture**: Distributed NestJS + FastAPI stack with Celery workers for asynchronous processing (OCR, embeddings, graph building), PostgreSQL+pgvector for vector search
-- **Multi-Platform Applications**: NextJS (React) interface and React Native/Expo mobile app with JWT authentication, Redis rate limiting, and Cloudflare R2 storage
-
-**Stack**: LangChain, LangGraph, Neo4j, FastAPI, NestJS, PostgreSQL+pgvector, Celery, Redis, React (NextJS), React Native
+[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=egobis)
 
 ---
 
-## 🛠️ Tech Stack
+### Full Stack Software Engineer | Groupe Actual, Toulouse
 
-### 🤖 AI & Agentic Systems
+**September 2022 - September 2025**
+
+Worked on **My Actual**, the main Groupe Actual platform for temporary workers, candidates, and internal collaborators.
+
+- **Web Applications**: Designed and developed complex **React / TypeScript** applications used by more than **50,000 users**
+- **Mobile Applications**: Built **React Native / Expo** apps for iOS and Android reaching more than **250,000 downloads**
+- **Backend Architecture**: Developed **NestJS** microservices with RESTful APIs and **MySQL** data layers
+- **Performance & Scalability**: Improved performance by more than **30%** through full-stack optimization, caching, and monitoring
+- **Data Engineering**: Used **BigQuery** and **MySQL** to investigate inconsistencies and secure business-critical data flows
+- **Code Quality**: Modernized legacy codebases to **TypeScript / TSX** and implemented functional tests across the stack
+
+**Stack**: React, TypeScript, React Native, NestJS (Node.js), MySQL, Redis, GCP
+
+[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=actual)
+
+---
+
+### Full Stack Developer Intern | Groupe Bizness, Toulouse
+
+**May 2022 - August 2022**
+
+Built a business chatbot combining **hybrid retrieval**, **tool orchestration**, **controlled text-to-SQL**, and targeted web search.
+
+- **Conversational Assistant**: Developed a chatbot able to answer from structured and unstructured knowledge sources
+- **Hybrid Search**: Combined **ChromaDB** semantic retrieval with **Elasticsearch** keyword search
+- **Tool Routing**: Used **LangChain** to choose between document RAG, keyword search, SQL queries, database lookups, and complementary tools
+- **Controlled Text-to-SQL**: Implemented a safe flow for targeted SQL queries on selected business data
+- **Full-Stack Delivery**: Built the **Angular** interface and **FastAPI** backend endpoints powering the assistant
+
+**Stack**: Angular, Python, FastAPI, LangChain, ChromaDB, Elasticsearch, SQL
+
+[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=bizness)
+
+---
+
+### Full Stack Developer | Société JUMP, Toulouse
+
+**November 2019 - June 2021**
+
+Worked on two major missions: deployment automation and a healthcare platform.
+
+**Mission 1 - Jumbot, deployment automation**
+
+- Built an internal **Slack bot** to deploy, update, list, and delete client environments in minutes
+- Designed a distributed architecture with **BoltJS**, **NestJS**, **RabbitMQ**, and **MongoDB**
+- Automated branch selection, permission checks, remote script execution, audit history, and role-based access control
+- Helped reduce deployment lead time from **one week to a few minutes**
+
+**Mission 2 - Healthcare platform**
+
+- Built a platform with dedicated interfaces for **patients**, **surgeons**, and **administrators**
+- Developed **Angular / Ionic** applications and **NestJS** backend services
+- Integrated **WebSockets** and server-side workflows for real-time follow-up
+- Managed business operations data with **PostgreSQL**
+- Public product website: [betty.care](https://betty.care)
+
+**Stack**: Angular, Ionic, BoltJS, NestJS, RabbitMQ, MongoDB, PostgreSQL, WebSockets
+
+[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=jump)
+
+---
+
+## Tech Stack
+
+### AI & Agentic Systems
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=graph&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=brain&logoColor=white)
 ![Graph RAG](https://img.shields.io/badge/Graph_RAG-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-7B68EE?style=for-the-badge&logo=ai&logoColor=white)
@@ -114,135 +151,119 @@ _Full-stack document management platform powered by Graph RAG and agentic system
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=magic&logoColor=black)
 ![RL](https://img.shields.io/badge/Reinforcement_Learning-9C27B0?style=for-the-badge&logo=brain&logoColor=white)
 
-### 🔮 Vector & Knowledge Databases
+### Vector & Knowledge Databases
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Graphiti](https://img.shields.io/badge/Graphiti-4CAF50?style=for-the-badge&logo=graph&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge&logo=pinecone&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-FF5722?style=for-the-badge&logo=vector&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF5722?style=for-the-badge&logo=data&logoColor=white)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-2196F3?style=for-the-badge&logo=search&logoColor=white)
 
-### ⚙️ Backend & Microservices
+### Backend & Microservices
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-3498DB?style=for-the-badge&logo=api&logoColor=white)
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🧠 AI/ML Expertise
-
-<div align="center">
-
-| Domain                         | Technologies & Skills                                                                |
-| ------------------------------ | ------------------------------------------------------------------------------------ |
-| **🤖 AI & Agentic Systems**    | LangChain, LangGraph, RAG, Graph RAG, LLM, Autonomous Agents, Prompt Engineering, RL |
-| **� Vector & Knowledge DBs**   | Neo4j, Graphiti, Pinecone, pgvector, Elasticsearch, Embeddings, Semantic Search      |
-| **⚙️ Backend & Microservices** | FastAPI, NestJS, NodeJS, PostgreSQL, MongoDB, Redis, Celery, RabbitMQ, RESTful APIs  |
-| **� Full-Stack Development**   | TypeScript, Python, React, NextJS, React Native, Docker, CI/CD                       |
-
-</div>
-
----
-
-## 🎓 Education
+## Education
 
 ```mermaid
 timeline
     title Education Journey
-    2018-2019 : High School Diploma Science and Technology
+    2018-2019 : High School Diploma in Science and Technology
              : IES Salvador Espriu, Girona, Spain
-    2021-2022 : Associate Web and Mobile Web Developer
+    2021-2022 : Web and Mobile Web Developer
              : SIMPLON, Toulouse
     2022-2023 : Bachelor DevOps Application Developer & Designer
              : EPSI, Toulouse
              : With distinction from the jury
-    2023-2025 : Master Software Architect
-             : EPITECH Computer Science School, Toulouse
+    2023-2025 : Master's in Software Architecture
+             : EPITECH, Toulouse
 ```
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 ```mermaid
 timeline
     title Career Path
-    2021 : Full Stack Developer @ Société JUMP
-         : Test Automation & Slack Commands
-         : Web Tools Development
-    2022 : Full Stack Developer @ Groupe Bizness
-         : Microservices Architecture
-         : RAG System for FAQ
-         : Real-time WebSockets
-    2022-2025 : Full Stack Developer @ Groupe Actual
-         : 50,000+ users served
-         : 250,000+ mobile downloads
-         : React Native & Enterprise apps
-    2024-Present : AI Engineer @ Archeon (Freelance)
-         : Graph RAG with Neo4j & Graphiti
-         : LangChain/LangGraph Agents
-         : Full-stack AI Platform
+    2019-2021 : Full Stack Developer @ Société JUMP
+              : Jumbot deployment automation
+              : Healthcare platform for patient follow-up
+    2022 : Full Stack Developer Intern @ Groupe Bizness
+         : Hybrid retrieval chatbot
+         : LangChain orchestration and text-to-SQL
+    2022-2025 : Full Stack Software Engineer @ Groupe Actual
+              : 50,000+ web users
+              : 250,000+ mobile downloads
+              : React Native, NestJS, BigQuery
+    2025-2026 : AI Engineer @ Egobis / Dataunboxed
+              : Graph RAG with Neo4j and Graphiti
+              : LangChain / LangGraph agents
+              : Full-stack AI knowledge platform
 ```
 
 ---
 
-## 🌍 Languages
+## Languages
 
 <div align="center">
 
-| Language   | Proficiency    |
-| ---------- | -------------- |
-| 🇫🇷 French  | Native         |
-| 🇲🇦 Arabic  | Native         |
-| 🇪🇸 Catalan | Native         |
-| 🇪🇸 Spanish | Native         |
-| 🇬🇧 English | Fluent         |
-| 🇮🇹 Italian | Conversational |
+| Language | Proficiency |
+| --- | --- |
+| French | Native |
+| Arabic | Native |
+| Catalan | Native |
+| Spanish | Native |
+| English | Fluent |
+| Italian | Conversational |
 
 </div>
 
 ---
 
-## 🌟 What Drives Me
+## What Drives Me
 
-- 🤖 **Agentic AI Systems** — Building autonomous agents with LangChain & LangGraph
-- 🔮 **Graph RAG Innovation** — Pushing the boundaries of knowledge graph + LLM integration
-- 🧠 **Intelligent Systems** — Building AI that truly understands and processes complex data
-- ⚡ **Production AI** — Scalable ML infrastructure with microservices and async processing
-- 🔍 **Advanced Retrieval** — Hybrid search systems combining semantic, keyword, and graph traversal
-- 📚 **Knowledge Engineering** — Transforming unstructured documents into queryable knowledge bases
+- Agentic AI systems that can reason, plan, and act
+- Graph RAG and knowledge engineering for real-world products
+- Production-ready architectures, not just prototypes
+- Hybrid retrieval systems combining semantic, keyword, SQL, and graph search
+- Building interfaces that make complex AI systems genuinely usable
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-el-hachmi-mahti-2aa122225)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soymusta)
+[![GitHub](https://img.shields.io/badge/GitHub-mustaphaelhachmimahti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustaphaelhachmimahti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mustapha-elhachmi.tech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustaelhachmimahti@gmail.com)
 
-📍 **Toulouse, Occitanie, France** | 📞 **0750018388**
+Toulouse, Occitanie, France | 0750018388
 
 </div>
 
@@ -250,16 +271,6 @@ timeline
 
 <div align="center">
 
-### 💭 _"Transforming documents into knowledge, complexity into intelligence"_
-
-<img src="https://komarev.com/ghpvc/?username=soymustamahti&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
----
-
-**🧠 Open to collaborations on AI, Agentic Systems, RAG, and Knowledge Graph projects**
+### "Transforming documents into knowledge and complexity into intelligent systems"
 
 </div>
-
----
-
-⭐️ From [soymustamahti](https://github.com/soymustamahti) — Building the future of intelligent agentic systems
