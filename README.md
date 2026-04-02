@@ -70,7 +70,7 @@ Full-stack document intelligence platform powered by **Graph RAG**, **knowledge 
 
 **Stack**: LangChain, LangGraph, Neo4j, FastAPI, NestJS, PostgreSQL + pgvector, Celery, Redis, React (Next.js), React Native
 
-[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=egobis)
+<a href="https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=egobis" target="_blank" rel="noreferrer">Portfolio details</a>
 
 ---
 
@@ -89,7 +89,7 @@ Worked on **My Actual**, the main Groupe Actual platform for temporary workers, 
 
 **Stack**: React, TypeScript, React Native, NestJS (Node.js), MySQL, Redis, GCP
 
-[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=actual)
+<a href="https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=actual" target="_blank" rel="noreferrer">Portfolio details</a>
 
 ---
 
@@ -107,7 +107,7 @@ Built a business chatbot combining **hybrid retrieval**, **tool orchestration**,
 
 **Stack**: Angular, Python, FastAPI, LangChain, ChromaDB, Elasticsearch, SQL
 
-[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=bizness)
+<a href="https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=bizness" target="_blank" rel="noreferrer">Portfolio details</a>
 
 ---
 
@@ -130,11 +130,11 @@ Worked on two major missions: deployment automation and a healthcare platform.
 - Developed **Angular / Ionic** applications and **NestJS** backend services
 - Integrated **WebSockets** and server-side workflows for real-time follow-up
 - Managed business operations data with **PostgreSQL**
-- Public product website: [betty.care](https://betty.care)
+- Public product website: <a href="https://betty.care" target="_blank" rel="noreferrer">betty.care</a>
 
 **Stack**: Angular, Ionic, BoltJS, NestJS, RabbitMQ, MongoDB, PostgreSQL, WebSockets
 
-[Portfolio details](https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=jump)
+<a href="https://www.mustapha-elhachmi.tech/?scrollTo=experience&experience=jump" target="_blank" rel="noreferrer">Portfolio details</a>
 
 ---
 
